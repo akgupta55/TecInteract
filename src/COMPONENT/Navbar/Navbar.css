@@ -107,7 +107,7 @@ nav .s2{
 nav .s2 a{
     /* background-color: aqua; */
     text-decoration: none;
-    color: var(--primary);
+    color: var(--secondary);
     font-size: 14px;
     font-weight: 500;
 }
