@@ -1,0 +1,22 @@
+.bannerslider{
+width: 100%;
+overflow: hidden;
+height: 60vh;
+position: relative;
+}
+
+.bannerslider .imagecont{
+    background-color: var(--background);
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 280px;
+}
+
+.bannerslider .imagecont img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 280px;
+}
