@@ -36,7 +36,7 @@ const BannerSlider = () => {
               <img src={item.image} alt="noimage" />
               <div className="content">
                 <h1>{item.title}</h1>
-                <button>Shop Now</button>
+                <button>Shop More</button>
               </div>
             </div>
           );
