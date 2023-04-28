@@ -53,16 +53,16 @@
 }
 
 .homecategories .container:nth-child(2){
-    background-color: #8040ff;
-    color: var(--secondery);
+    background-color: #40ff60;
+    color: black;
 }
 
 .homecategories .container:nth-child(3){
-    background-color: #40ff60;
+    background-color: #8040ff;
     color: var(--secondery);
 }
 
 .homecategories .container:nth-child(4){
     background-color: #ffff40;
-    color: var(--secondery);
+    color: black;
 }
